@@ -12,5 +12,3 @@
 /captures
 .externalNativeBuild
 .cxx
-# Android Studio
-.idea/*
